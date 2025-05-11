@@ -1,6 +1,24 @@
-Hi, I'm Kashish Vaid 👋
+👋 Hi, I'm Kashish Vaid
+🚀 Data Science Professional | 🤖 ML & GenAI Enthusiast
 
-Data Science Professional | AI and Machine Learning |
+🔧 Tech Stack & Interests:
 
-With over 5 years of experience in data science, I'm passionate about leveraging machine learning algorithms, GenAI, deep learning, neural networks, OpenCV, CNN, NLP, and cloud computing 
-to drive innovative solutions.
+📊 Machine Learning, Deep Learning, GenAI
+
+🧠 Neural Networks (CNNs, RNNs), NLP
+
+🖼️ Computer Vision (OpenCV, image processing)
+
+☁️ Cloud Platforms: AWS, GCP, Azure
+
+🛠️ CI/CD: Jenkins, GitHub Actions, Docker, Kubernetes
+
+💾 Data Engineering: SQL, Spark, Airflow
+
+🐍 Languages: Python, SQL, Bash
+
+📈 MLOps: MLflow, Model Deployment, Monitoring
+
+🧪 Testing & Experiment Tracking
+
+📚 Passionate about AI research & building scalable pipelines
