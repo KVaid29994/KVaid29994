@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Kashish Vaid
-- 👀 I’m interested in Machine learning algorithms, GenAI, deep learning, neural networks, openCV, CNN, NLP, cloud computing
-- 🌱 I’m currently learning cloud computing basics and deep learning advanced
-- 💞️ I’m looking to collaborate on deep-learning projetcs
-- 📫 Reach me at kashish.vaid29994@gmail.com
+Hi, I'm Kashish Vaid 👋
+Data Science Professional | Machine Learning Enthusiast
+With over 5 years of experience in data science, I'm passionate about leveraging machine learning algorithms, GenAI, deep learning, neural networks, OpenCV, CNN, NLP, and cloud computing to drive innovative solutions.
