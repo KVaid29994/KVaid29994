@@ -1,14 +1,27 @@
-👋 Hi, I'm Kashish Vaid
-🚀 Data Science Professional | 🤖 ML & GenAI Enthusiast
+# 👋 Hey there! I'm **Kashish Vaid**
 
-🔧 Tech Stack & Interests:
-📊 Machine Learning, Deep Learning, GenAI
-🧠 Neural Networks (CNNs, RNNs), NLP
-🖼️ Computer Vision (OpenCV, image processing)
-☁️ Cloud Platforms: AWS, Azure
-🛠️ CI/CD: Jenkins, GitHub Actions, Docker, Kubernetes
-💾 Data Engineering: SQL, Spark, Airflow
-🐍 Languages: Python, SQL, Bash
-📈 MLOps: MLflow, Model Deployment, Monitoring
+🚀 **Data Science** | 🤖 **ML & GenAI** | 🧠 **NLP & Agentic AI**
 
-📚 Passionate about AI research & building scalable pipelines
+
+## 🔧 Tech Stack & Interests
+
+- 📊 **Machine Learning & Deep Learning** – supervised/unsupervised learning, CNNs, RNNs, Transformers  
+- 🧠 **NLP** – text classification, embeddings, BERT, LLaMA, GPT, LangChain, RAG, semantic search  
+- 🤖 **Agentic AI** – LLM agents, tool use, LangGraph, autonomous workflows  
+- 🖼️ **Computer Vision** – image classification, OpenCV, image augmentation  
+- ✨ **Generative AI** – prompt engineering, fine-tuning LLMs, GenAI APIs (OpenAI, Cohere, HuggingFace)
+
+---
+
+## ⚙️ Engineering & DevOps Skills
+
+- 🐍 **Languages** – Python, SQL, Bash  
+- ☁️ **Cloud** – AWS, Azure (SageMaker, EC2, S3, Azure ML)  
+- 🧪 **MLOps** – MLflow, FastAPI, Docker, Kubernetes  
+- 🔁 **CI/CD** – GitHub Actions, Jenkins  
+- 🔄 **Data Engineering** – Spark, Airflow, DBT, scalable ETL pipelines
+
+### 📫 Reach Out:
+- ✉️ https://www.linkedin.com/in/kashish-vaid-380a94122/
+
+---
